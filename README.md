@@ -29,7 +29,7 @@ npm test
 
 ## Backend with rails api
 
-Github link backend app on vue https://github.com/panuza/CoadingChallenge
+Github link backend app https://github.com/panuza/CoadingChallenge
 
 
 ## Project link on heroku
